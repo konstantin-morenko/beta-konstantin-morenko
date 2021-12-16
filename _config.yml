@@ -1,5 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 
+title: Английский язык
+description: Коллекция материалов по английскому языку от Константина Моренко
+
 aux_links:
   "Константин Моренко":
     - "https://konstantin-morenko.ru"
