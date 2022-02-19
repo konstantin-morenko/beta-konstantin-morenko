@@ -74,6 +74,16 @@ nav_order: 100
   Словарь и тезаурус с грамматическими описаниями, толкованиями и
   переводами.
 
+- [English Language & Usage](https://english.stackexchange.com/)
+
+  Огромная база вопросов и ответов по английскому языку для
+  профессионалов.
+
+- [English Language Learners](https://ell.stackexchange.com/)
+
+  Огромная база вопросов и ответов по английскому языку для изучающих
+  английский язык.
+
 ## Обучающие программы
 
 - [Duolingo](https://www.duolingo.com/)
