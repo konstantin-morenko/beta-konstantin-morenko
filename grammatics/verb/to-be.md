@@ -1,6 +1,7 @@
 ---
 title: Глагол to be (быть)
 parent: Глагол
+grand_parent: Грамматика
 ---
 
 # Глагол to be (быть)
