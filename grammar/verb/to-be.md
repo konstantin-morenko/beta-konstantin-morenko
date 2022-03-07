@@ -2,6 +2,7 @@
 title: Глагол to be (быть)
 parent: Глагол
 grand_parent: Грамматика
+nav_order: 2
 ---
 
 # Глагол to be (быть)
