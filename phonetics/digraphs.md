@@ -38,7 +38,7 @@ play [pleɪ] играть; pie [pʌɪ] пирожок; suit [suːt] костюм
 Исключение: в слове read [riːd] *читать* читается только первая
 гласная по открытому типу слога.
 
-Чтение сочетания *ear* перед *n*, *d*, *th*, *l*.
+Чтение сочетания [*ear* перед *n*, *d*, *th*, *l*]({{ site.baseurl }}{% link phonetics/letter-combinations.md %}#ear-перед-n-d-th-l).
 
 ## oo
 
