@@ -40,6 +40,8 @@ play [pleɪ] играть; pie [pʌɪ] пирожок; suit [suːt] костюм
 
 Чтение сочетания [*ear* перед *n*, *d*, *th*, *l*]({{ site.baseurl }}{% link phonetics/letter-combinations.md %}#ear-перед-n-d-th-l).
 
+Чтение диграфа [*ea* перед *sure*]({{ site.baseurl }}{% link phonetics/letter-combinations.md %}#easure)
+
 ## oo
 
 Диграф *оо* имеет два произношения:
