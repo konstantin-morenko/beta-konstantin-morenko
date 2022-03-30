@@ -165,6 +165,8 @@ Past Indefinite Passive: was (were) + Participle Il
 
 Future Indefinite Passive: shall be (will be) + Participie II
 
+[Participle II]({{ site.baseurl }}{% link grammar/participles.md %}#причастие-ii-participle-ii)
+
 
 ### Перевод на русский язык
 
