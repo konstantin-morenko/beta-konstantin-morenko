@@ -98,3 +98,26 @@ be studying English.  В 6 часов я буду зани маться англ
 *to go* теряет свое лексическое значение *ехать*, *идти*. Например: I
 am going to study English this year.  Я собираюсь заниматься
 английским языком в этом году.
+
+## Страдательный залог
+
+Глагол в Present Continuous Passive обозначает действие, которому подвергается лицо или предмет в настоящий момент или период времени в настоящем;
+глагол в Past Continuous Passive обозначает действие,
+которому подвергалось лицо или предмет в какой-то
+момент или период времени в прошлом.
+
+Образование Present и Past Continuous Passive происходит по следующей
+схеме: *to be в Present или Past Continuous + Participle II смыслового
+глагола*:
+- Present Continuous Passive: am (is, are) being + Participle II
+- Past Continuous Passive: was (were) being + Participle II
+
+Таким образом, страдательный залог времен группы Continuous образуется
+аналогично страдательному залогу времени группы Indefinite с той
+разницей, что глагол *to be* употребляется в Present или Past
+Continuous.  Например:
+- Many new houses are being built in our city. В нашем городе строится
+  (сейчас) много новых домов.
+- Many new houses were being built in this city when I was there last
+  year. В этом городе строилось много новых домов, ког да я был там в
+  прошлом году.
