@@ -119,8 +119,11 @@ last week *на прошлой неделе*, last year *в прошлом го�
 | I/we shall *make*.              | *Shall* I/we *make*?              | I/we *shall not make*.              |
 | You/he/she/it/they will *make*. | *Will* you/he/she/it/they *make*? | You/he/she/it/they *will not make*. |
 
-Сокращенные формы: shan't [ʃɑːnt] = shall not; won't [wəʊnt] = will
-not.
+Сокращенные формы:
+- I'll = I shall (will)
+- he'll = he will
+- shan't [ʃɑːnt] = shall not
+- won't [wəʊnt] = will not.
 
 Глагол в будущем неопределенном времени обозначает будущее действие,
 которое может быть однократным или повторяющимся.

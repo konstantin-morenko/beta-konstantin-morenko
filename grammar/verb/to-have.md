@@ -24,6 +24,9 @@ nav_order: 2
 Сокращенные формы:
 - haven't = have not
 - hasn't = has not
+- I've = I have
+- he's = he has
+- I'd = I had
 
 
 ---
