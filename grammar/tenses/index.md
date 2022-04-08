@@ -7,7 +7,19 @@ has_children: true
 
 # Группы времен английского языка
 
+- Inf. — инфинитив глагола (первая форма) без частицы *to*
+- (s) — прибавление окончания *-s*/*-es* для 3 л. ед. ч. ([изменение
+  по лицам и числам]({{ site.baseurl }}{% link grammar/verb/index.md %}#изменение-глагола-по-лицам-и-числам))
+- V. II — глагол во второй форме ([образование второй формы]({{ site.baseurl }}{% link grammar/verb/index.md %}#форма-past-indefinite)
+
+
 - Indefinite
+  - Настоящее время
+    > Inf.(s)
+  - Прошедшее время
+    > V. II
+  - Будущее время
+    > shall / will + Inf.
 - Perfect
 - Continuous
 - Perfect Continuous
