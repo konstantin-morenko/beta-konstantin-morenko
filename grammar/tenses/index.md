@@ -13,20 +13,41 @@ has_children: true
   по лицам и числам]({{ site.baseurl }}{% link grammar/verb/index.md %}#изменение-глагола-по-лицам-и-числам))
 - P.I — причастие I
 - P.II — причастие II
+- @Form — видовременная форма глагола
 
 Общие правила образования форм:
-- Indefinite
-  > [Inf.]
-- Perfect
-  > [have] + P.II
-- Continuous
-  > [to be] + P.I
-- Perfect Continuous
-  > [have] been + P.II
-Пассивный залог:
-> [to be] + P.II
+- [Indefinite]({{ site.baseurl}}{% link grammar/tenses/indefinite.md %})
 
-## Особенности страдательного залога в английском языке {#passive-voice-features}
+  > [Inf.]
+
+- Perfect
+
+  > [have] + P.II
+
+- Continuous
+
+  > [be] + P.I
+
+- Perfect Continuous
+
+  > [be]@Perf. + P.I = [have] been + P.I
+
+Пассивный залог:
+
+> [be] + P.II
+
+
+## Образование страдательного залога
+
+По общему правилу страдательный залог образуется
+
+> [be] + P.II
+
+При этом глагол *to be* может быть в любой необходимой видовременной
+форме.
+
+
+### Особенности страдательного залога в английском языке {#passive-voice-features}
 
 В английском языке возможны страдательные обороты, в которых
 подлежащим является личное местоимение в именительном падеже. (В
