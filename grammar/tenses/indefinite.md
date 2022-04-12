@@ -6,14 +6,14 @@ grand_parent: Грамматика
 
 # Времена группы Indefinite (Неопределенные времена)
 
+{% include tenses_help.html %}
+
 Времена группы Indefinite (Неопределенные времена) указывают на
 обычное действие, которое происходит, происходило или будет
 происходить в настоящем (Present Indefinite), прошедшем (Past
 Indefinite) или будущем (Future Indefinite).
 
 [Порядок слов]
-
-{% include tenses_help.html %}
 
 
 ## The Present Indefinite Tense (Настоящее неопределенное время)
@@ -37,7 +37,7 @@ The Present Indefinite Tense (Настоящее неопределенное в
 
 Прошедшее неопределенное время употребляется для обозначения действия,
 которое однократно произошло или происходило повторно в прошлом и
-никак не связано с настоящим (в противовес формам [Perfect]({{ site.baseurl }}{% link grammar/verb/perfect.md %})).
+никак не связано с настоящим (в противовес формам [Perfect]({{ site.baseurl }}{% link grammar/tenses/perfect.md %})).
 
 В прошедшем неопределенном времени используется вторая форма глагола —
 форма прошедшего времени ([Образование формы Past Indefinite]({{ site.baseurl }}{% link grammar/verb/index.md %}#форма-past-indefinite))

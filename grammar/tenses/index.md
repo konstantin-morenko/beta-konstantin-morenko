@@ -14,15 +14,15 @@ has_children: true
 
   > [Inf.]
 
-- Perfect
+- [Perfect]({{ site.baseurl}}{% link grammar/tenses/perfect.md %})
 
-  > [have] + P.II
+  > [have]@Ind. + P.II
 
-- Continuous
+- [Continuous]({{ site.baseurl}}{% link grammar/tenses/continuous.md %})
 
-  > [be] + P.I
+  > [be]@Ind. + P.I
 
-- Perfect Continuous
+- [Perfect Continuous]({{ site.baseurl}}{% link grammar/tenses/perfect-continuous.md %})
 
   > [be]@Perf. + P.I = [have] been + P.I
 
@@ -31,7 +31,7 @@ has_children: true
 > [be] + P.II
 
 
-## Образование страдательного залога
+## Образование страдательного (пассивного) залога
 
 По общему правилу страдательный залог образуется
 
