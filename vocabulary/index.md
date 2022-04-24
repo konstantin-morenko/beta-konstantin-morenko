@@ -1,7 +1,7 @@
 ---
 title: Лексика
 has_children: true
-nav_order: 30
+nav_order: 5
 ---
 
 

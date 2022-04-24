@@ -1,5 +1,5 @@
 ---
-title: Главная
+title: Обложка
 nav_order: 1
 permalink: /
 ---

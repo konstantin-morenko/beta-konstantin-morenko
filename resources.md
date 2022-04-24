@@ -1,6 +1,6 @@
 ---
 title: Ресурсы
-nav_order: 100
+nav_order: 6
 ---
 
 # Ресурсы
