@@ -459,9 +459,9 @@ nav_order: 30
 - **bird** [bəːd] *сущ* птица
 - **dog** [dɒɡ] *сущ* собака
 - **cat** [kat] *сущ* кот, кошка
-- **mouse** [maʊs] (mice [mʌɪs]) *сущ* мышь
+- **mouse** [maʊs] (**mice** [mʌɪs]) *сущ* мышь
 - **butterfly** [ˈbʌtəflʌɪ] *сущ* бабочка
-- **fish** [fɪʃ] (fish или fishes) *сущ* рыба
+- **fish** [fɪʃ] (**fish**) *сущ* рыба
 - **snake** [sneɪk] *сущ* змея
 
 
