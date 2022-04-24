@@ -2,7 +2,7 @@
 title: Глагол to have (иметь, обладать, владеть)
 parent: Глагол
 grand_parent: Грамматика
-nav_order: 2
+nav_order: 3
 ---
 
 # Глагол to have (иметь, обладать, владеть)

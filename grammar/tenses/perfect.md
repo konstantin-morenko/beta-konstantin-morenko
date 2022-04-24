@@ -2,6 +2,7 @@
 title: Времена группы Perfect (Законченные)
 parent: Времена
 grand_parent: Грамматика
+nav_order: 3
 ---
 
 # Времена группы Perfect (Законченные)

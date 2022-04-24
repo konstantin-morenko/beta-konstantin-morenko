@@ -2,7 +2,7 @@
 title: Модальные глаголы
 parent: Глагол
 grand_parent: Грамматика
-nav_order: 2
+nav_order: 6
 ---
 
 # Модальные глаголы

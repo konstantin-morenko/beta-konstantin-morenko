@@ -1,7 +1,7 @@
 ---
 title: Герундий
 parent: Грамматика
-nav_order: 3
+nav_order: 8
 ---
 
 # Герундий (Gerund)
