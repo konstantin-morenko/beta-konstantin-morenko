@@ -2,6 +2,8 @@
 title: Лексика
 has_children: true
 nav_order: 5
+description: |
+  500 часто употребляемых слов английского языка.
 ---
 
 
